@@ -1,4 +1,4 @@
-function show() {
+function display() {
     var password = document.getElementById("password");
     var icon = document.querySelector(".fas");
 
